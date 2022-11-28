@@ -1,0 +1,29 @@
+{
+  "name": "outliar_data_points",
+  "version": "1.0.0",
+  "description": "Data_App",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WareDave/Outliar_Data_Points.git"
+  },
+  "keywords": [
+    "Data",
+    "Outliar",
+    "Doom",
+    "Spam",
+    "Egg",
+    "Spam",
+    "&",
+    "Eggs"
+  ],
+  "author": "WareDave / DavTheClark LLC Copyright 2022",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WareDave/Outliar_Data_Points/issues"
+  },
+  "homepage": "https://github.com/WareDave/Outliar_Data_Points#readme"
+}
